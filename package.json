@@ -1,0 +1,26 @@
+{
+    "name": "@miklakapi/prettier-config",
+    "version": "1.0.0",
+    "description": "Shared Prettier configuration.",
+    "homepage": "https://github.com/Miklakapi/prettier-config#readme",
+    "bugs": {
+        "url": "https://github.com/Miklakapi/prettier-config/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Miklakapi/prettier-config.git"
+    },
+    "license": "ISC",
+    "author": "Miklakapi",
+    "type": "module",
+    "exports": "./index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "peerDependencies": {
+        "prettier": ">=3.0.0"
+    },
+    "devDependencies": {
+        "prettier": "^3.8.3"
+    }
+}
