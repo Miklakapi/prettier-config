@@ -10,7 +10,7 @@ const config = {
     proseWrap: 'preserve',
     vueIndentScriptAndStyle: false,
     singleAttributePerLine: false,
-    printWidth: 150,
+    printWidth: 120,
     htmlWhitespaceSensitivity: 'ignore',
 }
 
